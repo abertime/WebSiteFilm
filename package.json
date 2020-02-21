@@ -1,0 +1,17 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "nice13",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "tv-maze": "^1.1.0",
+    "tvmaze-node": "^1.0.4"
+  }
+}
